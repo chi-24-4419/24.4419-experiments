@@ -5,5 +5,6 @@ Files:
 	- ef_ci_mle.py code for data about bias std and coverage of the MLE for the EF model 
 	- visualize_actr_asymptotic.py code to visualize data for previous file
 	- visualize_ef_asymptotic.py idem
-	- schedules/
+	- schedules/ files for the schedule section
+	- problems/ files for model based evaluation section
 	
